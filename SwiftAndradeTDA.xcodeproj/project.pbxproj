@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2227938C26D486300039B316 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2227938B26D486300039B316 /* README.md */; };
 		22B17D85269A3C3E0043BF9C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17D84269A3C3E0043BF9C /* AppDelegate.swift */; };
 		22B17D87269A3C3E0043BF9C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17D86269A3C3E0043BF9C /* SceneDelegate.swift */; };
 		22B17D89269A3C3E0043BF9C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17D88269A3C3E0043BF9C /* ViewController.swift */; };
@@ -15,7 +16,7 @@
 		22B17D91269A3C400043BF9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22B17D8F269A3C400043BF9C /* LaunchScreen.storyboard */; };
 		22B17D9C269A3C410043BF9C /* ExampleTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17D9B269A3C410043BF9C /* ExampleTest.swift */; };
 		22B17DA7269A3C410043BF9C /* SwiftAndradeTDAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DA6269A3C410043BF9C /* SwiftAndradeTDAUITests.swift */; };
-		22B17DB8269B74610043BF9C /* ArchitectureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DB7269B74610043BF9C /* ArchitectureTests.swift */; };
+		22B17DB8269B74610043BF9C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DB7269B74610043BF9C /* README.md */; };
 		22B17DBA269B77170043BF9C /* ArchitectureTestProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DB9269B77170043BF9C /* ArchitectureTestProtocols.swift */; };
 		22B17DBD269B78570043BF9C /* Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DBC269B78570043BF9C /* Classes.swift */; };
 		22B17DBF269B79D70043BF9C /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22B17DBE269B79D70043BF9C /* Protocols.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2227938B26D486300039B316 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		22B17D81269A3C3E0043BF9C /* SwiftAndradeTDA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftAndradeTDA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22B17D84269A3C3E0043BF9C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22B17D86269A3C3E0043BF9C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,7 +63,7 @@
 		22B17DA2269A3C410043BF9C /* SwiftAndradeTDAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftAndradeTDAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22B17DA6269A3C410043BF9C /* SwiftAndradeTDAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftAndradeTDAUITests.swift; sourceTree = "<group>"; };
 		22B17DA8269A3C410043BF9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		22B17DB7269B74610043BF9C /* ArchitectureTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchitectureTests.swift; sourceTree = "<group>"; };
+		22B17DB7269B74610043BF9C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 		22B17DB9269B77170043BF9C /* ArchitectureTestProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchitectureTestProtocols.swift; sourceTree = "<group>"; };
 		22B17DBC269B78570043BF9C /* Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classes.swift; sourceTree = "<group>"; };
 		22B17DBE269B79D70043BF9C /* Protocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 		22B17D83269A3C3E0043BF9C /* SwiftAndradeTDA */ = {
 			isa = PBXGroup;
 			children = (
+				2227938B26D486300039B316 /* README.md */,
 				22B17DC5269F677E0043BF9C /* NewViews */,
 				22B17DBB269B78490043BF9C /* Bases */,
 				22B17D84269A3C3E0043BF9C /* AppDelegate.swift */,
@@ -170,7 +173,7 @@
 			isa = PBXGroup;
 			children = (
 				22B17D9B269A3C410043BF9C /* ExampleTest.swift */,
-				22B17DB7269B74610043BF9C /* ArchitectureTests.swift */,
+				22B17DB7269B74610043BF9C /* README.md */,
 				22B17DB9269B77170043BF9C /* ArchitectureTestProtocols.swift */,
 				22B17DEA26A1D8250043BF9C /* TimesViewModelTests.swift */,
 			);
@@ -303,6 +306,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2227938C26D486300039B316 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,7 +341,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22B17DEB26A1D8250043BF9C /* TimesViewModelTests.swift in Sources */,
-				22B17DB8269B74610043BF9C /* ArchitectureTests.swift in Sources */,
+				22B17DB8269B74610043BF9C /* README.md in Sources */,
 				22B17D9C269A3C410043BF9C /* ExampleTest.swift in Sources */,
 				22B17DC4269C898E0043BF9C /* MyViewModelTests.swift in Sources */,
 				22B17DBA269B77170043BF9C /* ArchitectureTestProtocols.swift in Sources */,
